@@ -1,0 +1,1 @@
+Run `set NODE_ENV=development` in windows.
